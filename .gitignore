@@ -1,5 +1,6 @@
 # Build and Release Folders
 bin/
+pkg/
 bin-debug/
 bin-release/
 [Oo]bj/ # FlashDevelop obj
@@ -7,6 +8,8 @@ bin-release/
 
 # Other files and folders
 .settings/
+.idea/
+*.iml
 
 # Executables
 *.swf
